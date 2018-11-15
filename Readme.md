@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication53/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication53/Form1.vb))
+<!-- default file list end -->
 # How to highlight pivot cells that correspond to a series point under the mouse pointer
 
 
